@@ -8,7 +8,7 @@ La lista de autorizados se edita **manualmente** en `plugins/ByOp/allowed.txt`. 
 | --- | --- |
 | Nombre | ByOp |
 | Versión | 1.2.0 |
-| Autor | **CamiKiss** |
+| Autor | **Cqmilu** |
 | Plataforma | Bukkit, Spigot, Paper |
 | Versiones de Minecraft | 1.7 – 26.3 (última versión) |
 | Java | 8 o superior (Paper 26.1+ requiere Java 25) |
