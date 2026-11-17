@@ -1,4 +1,4 @@
-# ByOp - by CamiKiss
+# ByOp - by Camilu
 # La lista de nicks autorizados se edita MANUALMENTE en allowed.txt
 # (plugins/ByOp/allowed.txt), un nick por linea. No hay comandos para agregar.
 # Despues de editar allowed.txt ejecuta /byop reload.
