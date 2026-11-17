@@ -140,7 +140,7 @@ Steve
 Notch           # administrador
 ```
 
-En el ejemplo anterior están autorizados `CamiKiss`, `Steve` y `Notch`. `Alex` no lo está porque su línea empieza con `#`.
+En el ejemplo anterior están autorizados `Camilu`, `Steve` y `Notch`. `Alex` no lo está porque su línea empieza con `#`.
 
 ### Dar o quitar autorización
 
@@ -182,7 +182,7 @@ plugins/ByOp/config.yml
 Contenido por defecto:
 
 ```yaml
-# ByOp - by CamiKiss
+# ByOp - by Camilu
 # La lista de nicks autorizados se edita MANUALMENTE en allowed.txt
 # (plugins/ByOp/allowed.txt), un nick por linea. No hay comandos para agregar.
 # Despues de editar allowed.txt ejecuta /byop reload.
@@ -368,10 +368,10 @@ ByOp/
 
 ## Créditos
 
-**ByOp** fue creado por **CamiKiss**.
+**ByOp** fue creado por **Cqmilu**.
 
-- Autor y créditos: **CamiKiss**
-- Idea y desarrollo del plugin: **CamiKiss**
+- Autor y créditos: **Camilu**
+- Idea y desarrollo del plugin: **Camilu**
 - Agradecimiento a la comunidad de Bukkit, Spigot y Paper por su API.
 
-Si usas o redistribuyes este plugin, conserva los créditos a CamiKiss.
+Si usas o redistribuyes este plugin, conserva los créditos a Camilu.
